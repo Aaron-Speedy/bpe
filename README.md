@@ -1,1 +1,2 @@
-# bpe
+# BPE
+Fast BPE tokenization
