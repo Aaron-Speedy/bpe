@@ -2,7 +2,7 @@
 Fast BPE tokenization
 
 To compile and run on POSIX systems, run
-``sh
+```sh
 ./build.sh
 ./bpe file.txt
-``
+```
